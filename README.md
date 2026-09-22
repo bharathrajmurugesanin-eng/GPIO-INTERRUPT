@@ -1,4 +1,5 @@
 # GPIO-INTERRUPT
+## Aim
 Combine a GPIO interrupt with a timer-based delay to implement non-blocking switch debouncing. Examine how the method eliminates false triggering without blocking the main loop.
 ## Apparatus Required
 
